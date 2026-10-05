@@ -1,0 +1,3 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+body{@apply bg-bg text-[#F2F4F7] font-sans}
+:focus-visible{outline:2px solid #FF9F43;outline-offset:2px}

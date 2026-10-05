@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+httpx
+pytest
+python-multipart
+psycopg2-binary
+langgraph
+alembic
+pymupdf
+pillow
+pytesseract
